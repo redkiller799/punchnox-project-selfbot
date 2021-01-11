@@ -1,5 +1,6 @@
-const token = ""; //tu met ton token entre les guillemets
-const prefix = ""; //tu met ton prefix entre les guillemets
+const token = "NzYyOTUwODg1MTc2Mzc3MzU0.X_y-Ng.k73iFAeeouwlUltImafObwOI4v8"; //tu met ton token entre les guillemets
+const prefix = "+
+"; //tu met ton prefix entre les guillemets
 const image = ""; //tu met le lien de ton image entre les guillemets
 const color = ""; //tu met ton la couleur (EXEMPLE RANDOM, RED, BLACK) ou un code couleur html comme #0CDF7C, #0F0000 dispo sur ce site ou autre https://htmlcolorcodes.com/fr/
 const twitch = ""; //tu met ton lien twitch ici 
